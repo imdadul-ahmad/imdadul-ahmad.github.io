@@ -1,0 +1,10 @@
+/* the dot menas we're styling a class*/
+/* em menas relative to defaulth size */
+.citation{
+    font-size: 5em;
+}
+
+#skelly {
+width:500px;
+
+}
