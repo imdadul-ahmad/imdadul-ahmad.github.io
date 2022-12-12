@@ -1,0 +1,10 @@
+ body {
+  margin: 20px;
+  padding: 50px;
+  width:50px;
+  height:50px;
+/*    background-image: url('nyc.jpg'); */
+}
+canvas {
+  display: block;
+}
